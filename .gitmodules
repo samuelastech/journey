@@ -1,0 +1,6 @@
+[submodule "journey-client"]
+	path = journey-client
+	url = https://github.com/samuelastech/journey-client
+[submodule "journey-server"]
+	path = journey-server
+	url = https://github.com/samuelastech/journey-server
